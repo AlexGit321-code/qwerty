@@ -1,0 +1,19 @@
+{
+  "name": "qwerty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexGit321-code/qwerty.git"
+  },
+  "author": "Made do in heaven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexGit321-code/qwerty/issues"
+  },
+  "homepage": "https://github.com/AlexGit321-code/qwerty#readme"
+}
